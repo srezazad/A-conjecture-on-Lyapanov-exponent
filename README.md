@@ -1,2 +1,1 @@
-# Early-stopping-for-SGD-
-A-conjecture-on-Lyapanov-exponent
+# A-conjecture-on-Lyapanov-exponent
