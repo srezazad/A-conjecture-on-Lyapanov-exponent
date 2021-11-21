@@ -1,2 +1,2 @@
 # Early-stopping-for-SGD-
-Early stopping rule for SGD for binary classification
+A-conjecture-on-Lyapanov-exponent
